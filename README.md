@@ -15,9 +15,6 @@
 - 🔭 I'm currently working on **Flutter Mobile Applications**
 - 🌱 I'm currently learning **Advanced Flutter Development & Kotlin**
 - 👯 I'm looking to collaborate on **Mobile App Development Projects**
-- 🤔 I'm looking for help with **Advanced Mobile Architecture Patterns**
-- 💬 Ask me about **Flutter, Dart, Mobile Development, and Cross-Platform Apps**
-- 📫 How to reach me: **[Your Email Here]**
 - ⚡ Fun fact: **I turn coffee into beautiful mobile apps and ideas into reality!**
 
 <br clear="right"/>
@@ -116,42 +113,54 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NivinCNC&repo=project1&theme=radical&hide_border=true" alt="CNCVerse-Cloud-Stream-Extension"/>
-</a>
-<a href="https://github.com/NivinCNC/MovieReqApi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NivinCNC&repo=project2&theme=radical&hide_border=true" alt="MovieReqApi"/>
-</a>
-
-</div>
-
----
 
 ## 🎨 Skills Progress
 
 <div align="center">
 
-| Skill | Progress |
-|-------|----------|
-| Flutter/Dart | ![90%](https://progress-bar.dev/90?color=02569B) |
-| Kotlin | ![65%](https://progress-bar.dev/75?color=0095D5) |
-| Java | ![70%](https://progress-bar.dev/70?color=ED8B00) |
-| TypeScript | ![65%](https://progress-bar.dev/65?color=007ACC) |
-| C Programming | ![70%](https://progress-bar.dev/60?color=00599C) |
-| HTML/CSS | ![80%](https://progress-bar.dev/80?color=E34F26) |
-| Mobile App Development | ![85%](https://progress-bar.dev/85?color=3DDC84) |
-| Firebase Integration | ![75%](https://progress-bar.dev/75?color=039BE5) |
+```text
+Flutter/Dart            ████████████████████████████████████████   90%
+Kotlin                  ██████████████████████████████████         75%
+Java                    ████████████████████████████               70%
+TypeScript              ██████████████████████████                 65%
+C Programming           ████████████████████████                   60%
+HTML/CSS                ████████████████████████████████████       80%
+Mobile App Development  ██████████████████████████████████████████ 85%
+Firebase Integration    ██████████████████████████████████         75%
+```
 
-</div>
+### 📊 Visual Skills Breakdown
 
----
-
-
-<img src="https://komarev.com/ghpvc/?username=NivinCNC&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Flutter-90%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter 90%"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Kotlin-75%25-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin 75%"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Java-70%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java 70%"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/TypeScript-65%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 65%"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/C-60%25-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C 60%"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS 80%"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Mobile%20Dev-85%25-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Dev 85%"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Firebase-75%25-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase 75%"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -165,17 +174,6 @@
 
 </div>
 
----
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-  
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing"/>
-
-</div>
-
----
 
 <div align="center">
   
